@@ -1,0 +1,35 @@
+.contaiber{
+    height: 500px;
+    width: 300px;
+    background-color: aliceblue;
+    
+}
+.redirect{
+    margin: auto;
+    width: 300px;
+    height: 500px;
+    justify-content: center;
+    
+}
+.logo{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-left: 40px;
+}
+.font3{
+    color: blue;
+    font-size: 20px;
+}
+.font4{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+.wtsp{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
